@@ -1,0 +1,30 @@
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.navbar-custom {
+  background-color: #0c42b1;
+  color: white;
+}
+
+.nav-link {
+  color: white;
+  font-weight: 600;
+  font-size: 13pt;
+}
+
+.sidebar-custom {
+  border: 2px solid black;
+  background-color: blanchedalmond;
+}
+
+.content-wrap {
+  border: 2px solid black;
+  background-color: blanchedalmond;
+}
+
+.card .card-footer {
+  padding: 0.5rem 1rem;
+  background-color: #0c42b1;
+  border: 0;
+}
